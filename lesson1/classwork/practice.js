@@ -23,3 +23,12 @@
 // Create 3 variables: your first name, your age, and your favorite color.
 // Print them on the same line in a full sentence.
 
+let ff="Pizza"
+console.log("My favorite food is" , ff)
+let h="1.5"
+console.log("My Height in meters is about" , h )
+let fn="Amiel"
+let ln="Malto"
+console.log("My name is" , fn , ln)
+let fc="Red"
+console.log("my name is" ,fn ,"my age is 13" , "my favorite color is" , fc)
