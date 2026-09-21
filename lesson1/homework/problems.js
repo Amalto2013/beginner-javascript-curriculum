@@ -6,7 +6,7 @@ console.log("Lucky number" , ln )
 // Problem 2
 // Create a variable for the number of hours you sleep and print it.
 
-let hs=6
+let hs=8
 console.log("I usually get" , hs, "hours of sleep")
 
 // Problem 3
